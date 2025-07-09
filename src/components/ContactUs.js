@@ -7,7 +7,6 @@ import {
   Card,
   CardContent,
   Button,
-  TextField,
   useTheme,
   useMediaQuery
 } from '@mui/material';
@@ -15,15 +14,13 @@ import {
   WhatsApp as WhatsAppIcon,
   Phone as PhoneIcon,
   Email as EmailIcon,
-  LocationOn as LocationIcon,
-  Send as SendIcon
+  LocationOn as LocationIcon
 } from '@mui/icons-material';
 import { motion } from 'framer-motion';
 import { colors } from '../theme/colors';
 
 const ContactUs = () => {
   const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
   const handleWhatsAppClick = () => {
     const phoneNumber = '+919491299727';

@@ -12,7 +12,6 @@ import {
 } from '@mui/material';
 import {
   Person as PersonIcon,
-  Compare as CompareIcon,
   TrendingUp as TrendingUpIcon,
   Psychology as PsychologyIcon,
   Group as GroupIcon,
@@ -25,7 +24,6 @@ import { colors } from '../theme/colors';
 
 const AboutUs = () => {
   const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
   const comparisonData = [
     {

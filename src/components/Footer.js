@@ -16,10 +16,7 @@ import {
   LinkedIn as LinkedInIcon,
   Instagram as InstagramIcon,
   YouTube as YouTubeIcon,
-  School as SchoolIcon,
-  Work as WorkIcon,
-  Book as BookIcon,
-  TrendingUp as TrendingUpIcon
+  School as SchoolIcon
 } from '@mui/icons-material';
 import { motion } from 'framer-motion';
 

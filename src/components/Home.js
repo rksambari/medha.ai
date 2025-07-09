@@ -5,8 +5,6 @@ import {
   Box,
   Grid,
   Card,
-  CardContent,
-  Paper,
   useTheme,
   useMediaQuery
 } from '@mui/material';
@@ -19,7 +17,7 @@ import {
   AutoAwesome as AutoAwesomeIcon
 } from '@mui/icons-material';
 import { motion } from 'framer-motion';
-import { colors, commonStyles } from '../theme/colors';
+import { colors } from '../theme/colors';
 
 const Home = () => {
   const theme = useTheme();
