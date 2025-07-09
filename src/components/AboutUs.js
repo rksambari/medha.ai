@@ -6,9 +6,7 @@ import {
   Grid,
   Card,
   CardContent,
-  Avatar,
-  useTheme,
-  useMediaQuery
+  Avatar
 } from '@mui/material';
 import {
   Person as PersonIcon,
@@ -23,7 +21,6 @@ import { motion } from 'framer-motion';
 import { colors } from '../theme/colors';
 
 const AboutUs = () => {
-  const theme = useTheme();
 
   const comparisonData = [
     {

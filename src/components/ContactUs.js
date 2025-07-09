@@ -6,9 +6,7 @@ import {
   Grid,
   Card,
   CardContent,
-  Button,
-  useTheme,
-  useMediaQuery
+  Button
 } from '@mui/material';
 import {
   WhatsApp as WhatsAppIcon,
@@ -20,7 +18,6 @@ import { motion } from 'framer-motion';
 import { colors } from '../theme/colors';
 
 const ContactUs = () => {
-  const theme = useTheme();
 
   const handleWhatsAppClick = () => {
     const phoneNumber = '+919491299727';
