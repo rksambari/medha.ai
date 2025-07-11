@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/medha.ai/static/css/main.7f647b14.css",
-    "main.js": "/medha.ai/static/js/main.e1cb5220.js",
-    "static/js/453.0505c0d8.chunk.js": "/medha.ai/static/js/453.0505c0d8.chunk.js",
-    "index.html": "/medha.ai/index.html",
-    "main.7f647b14.css.map": "/medha.ai/static/css/main.7f647b14.css.map",
-    "main.e1cb5220.js.map": "/medha.ai/static/js/main.e1cb5220.js.map",
-    "453.0505c0d8.chunk.js.map": "/medha.ai/static/js/453.0505c0d8.chunk.js.map"
+    "main.css": "/static/css/main.7f647b14.css",
+    "main.js": "/static/js/main.932913f4.js",
+    "static/js/453.0505c0d8.chunk.js": "/static/js/453.0505c0d8.chunk.js",
+    "index.html": "/index.html",
+    "main.7f647b14.css.map": "/static/css/main.7f647b14.css.map",
+    "main.932913f4.js.map": "/static/js/main.932913f4.js.map",
+    "453.0505c0d8.chunk.js.map": "/static/js/453.0505c0d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f647b14.css",
-    "static/js/main.e1cb5220.js"
+    "static/js/main.932913f4.js"
   ]
 }
